@@ -7,7 +7,7 @@ setup(
     author='Adam Brenecki',
     author_email='adam@brenecki.id.au',
     license='MIT',
-    setup_requires=["setuptools_scm>=1.11.1"],
+    setup_requires=["setuptools_scm==5.0.2"],
     use_scm_version=True,
     packages=find_packages(),
     include_package_data=True,
